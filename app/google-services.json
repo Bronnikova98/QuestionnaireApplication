@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "635078644993",
+    "project_id": "questionnaireapplication-49ae8",
+    "storage_bucket": "questionnaireapplication-49ae8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635078644993:android:9594779432535801663700",
+        "android_client_info": {
+          "package_name": "com.example.questionnaireapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635078644993-00cl8ndq713nvf1lufup8965e8vjqvhv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOhDFdQiDyjisniekkAiPCuvYQob3cx-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635078644993-00cl8ndq713nvf1lufup8965e8vjqvhv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
